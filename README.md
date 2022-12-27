@@ -6,12 +6,15 @@ Frontend Software Engineer
 
 I have been implementing accessible, effective, scalable UI's for web, desktop and mobile for three years. Still doing that. I am also part time working for myself building/creating/scripting social and mind games.
 
-*   🌍  I'm based in TR
-*   🖥️  See my portfolio at [here](http://mertakca.vercel.app)
-*   ✉️  You can contact me at [mertakca.dev@gmail.com](mailto:mertakca.dev@gmail.com)
-*   🚀  I'm currently working on [Plentific](http://plentific.com)
-*   🧠  I'm learning adaptibility, resilience, problem solving, communication and digitalization at McKinsey Academy.
-*   🤝  I'm open to collaborating on small projects, interesting games, and startups### Skills 
+* 🌍  I'm based in TR
+* 🖥️  See my portfolio at [here](http://mertakca.vercel.app)
+* ✉️  You can contact me at [mertakca.dev@gmail.com](mailto:mertakca.dev@gmail.com)
+* 🚀  I'm currently working on [Plentific](http://plentific.com)
+* 🧠  I'm learning adaptibility, resilience, problem solving, communication and digitalization at McKinsey Academy.
+* 🤝  I'm open to collaborating on small projects, interesting games, and startups
+
+### Skills
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,15 +35,13 @@ I have been implementing accessible, effective, scalable UI's for web, desktop a
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/utarit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/mertakca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@mertakca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/utarit"><img src="https://github-readme-stats.vercel.app/api?username=utarit&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="utarit's GitHub stats" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/utarit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mertakca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@mertakca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/utarit"><img src="https://github-readme-stats.vercel.app/api?username=utarit&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="utarit's GitHub stats" /></a>
