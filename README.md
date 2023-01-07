@@ -9,7 +9,7 @@ I have been implementing accessible, effective, scalable UI's for web, desktop a
 * 🌍  I'm based in TR
 * 🖥️  See my portfolio at [here](http://mertakca.vercel.app)
 * ✉️  You can contact me at [mertakca.dev@gmail.com](mailto:mertakca.dev@gmail.com)
-* 🚀  I'm currently working on [Plentific](http://plentific.com)
+* 🚀  I'm currently working in [Plentific](http://plentific.com)
 * 🧠  I'm learning adaptibility, resilience, problem solving, communication and digitalization at McKinsey Academy.
 * 🤝  I'm open to collaborating on small projects, interesting games, and startups
 
