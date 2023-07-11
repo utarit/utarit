@@ -7,9 +7,8 @@ Frontend Software Engineer
 I have been implementing accessible, effective, scalable UI's for web, desktop and mobile for three years. Still doing that. I am also part time working for myself building/creating/scripting social and mind games.
 
 * 🌍  I'm based in TR
-* 🖥️  See my portfolio at [here](http://mertakca.vercel.app)
+* 🖥️  See my portfolio at [here](http://mertakca.live)
 * ✉️  You can contact me at [mertakca.dev@gmail.com](mailto:mertakca.dev@gmail.com)
-* 🚀  I'm currently working in [Plentific](http://plentific.com)
 * 🧠  I'm learning adaptibility, resilience, problem solving, communication and digitalization at McKinsey Academy.
 * 🤝  I'm open to collaborating on small projects, interesting games, and startups
 
