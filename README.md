@@ -14,4 +14,4 @@ Articles
 
 **Try my game** 🫵 👇
 
-[Zehra is missing](https://mertsdesk.top/zehra)
+[Zehra is missing](https://mertsdesk.top/zehra?utm_source=github_profile)
